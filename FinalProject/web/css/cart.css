@@ -1,0 +1,144 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-4-24, 17:12:08
+    Author     : gaopingjie
+*/
+.w3-sidenav a {font-family: "Montserrat", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+a{
+    color:#595858;
+    text-decoration: none;
+}
+
+#small-logo{
+    padding-left: 20px;
+    font-weight:bold;
+}
+#small-logo a:hover{
+    font-size:24px;
+    color:black;
+}
+
+#my-nav a:hover { 
+    color: black;
+    text-decoration: none;
+    font-weight:bold;
+    background-color: white;
+    font-size: 20px;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+
+.input-bar {
+    display: table;
+    width: 100%;
+}
+.input-bar-item {
+    display: table-cell;
+}
+.input-bar-item > button {
+    font-size: 16px;
+    background-color: #e7e7e7;
+    border: none;
+    margin-left: 10px;
+    width:35px;
+    height:35px;
+}
+.width100 {
+  width: 100%;
+}
+
+#search:hover{
+    background-color: #e7e7e7;
+    border: none;
+}
+
+.cart-list{
+    margin-bottom: 50px;
+}
+.product-intro, .product-tax, .product-summary{
+    overflow: hidden;
+}
+.product-intro h3{
+    font-weight: bold;
+    font-size:22px;
+}
+hr{
+    margin-top:15px;
+    margin-bottom: 15px;
+}
+.product-tax h3, .product-summary h3{
+    font-size:20px;
+    margin:5px 0;
+}
+.product-info{
+    overflow: hidden;
+}
+.product-info p{
+    margin-bottom: 0px;
+}
+
+.book{
+    font-size:12px;
+    text-align: left;
+    margin-bottom: 0;
+}
+.book a:hover{
+    color:black;
+    text-decoration:underline;
+}
+.book img{
+    width:100%;
+    margin-bottom: 5px;
+}
+
+.col-sm-2 h3, .col-sm-2 p{
+    text-align: center;
+}
+.col-sm-2 select{
+    display: block;
+    margin: 0 auto;
+}
+.remove{
+    background-color: white;
+    border:none;
+    border-radius: 2px;
+    padding:5px 5px 6px 6px;
+}
+.remove:hover{
+    color:white;
+    background-color:#595858;
+}
+
+.verticalCenter {
+    display: flex;
+    justify-content: center;
+}
+.col-sm-1,.col-sm-2,.col-sm-5,.col-sm-6{
+    align-self: center;
+}
+
+.check-out button{
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    color:white;
+    background-color: #595858;
+    font-weight:bold;
+    padding:8px 12px;
+    margin-bottom: 50px;
+}
+.check-out button:hover{
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,0.2), 0 8px 8px 0 rgba(0,0,0,0.19);
+}
+
+#foot{
+    color:#595858;
+}

@@ -1,0 +1,74 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-4-24, 17:16:14
+    Author     : gaopingjie
+*/
+.w3-sidenav a {font-family: "Montserrat", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+a{
+    color:#595858;
+    text-decoration: none;
+}
+
+#small-logo{
+    padding-left: 20px;
+    font-weight:bold;
+}
+#small-logo a:hover{
+    font-size:24px;
+    color:black;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+.sign-in-register{
+    margin:0 auto;
+    width:450px;
+    text-align: center;
+}
+
+form{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.customer-info{
+    margin:0 0 20px 0;
+    overflow:hidden;
+}
+.customer-info p{
+    font-size: 18px;
+    text-align:left;
+}
+.customer-info input{
+    width: 100%;
+    font-size:16px;
+}
+.sign-reg-button{
+    display:block;
+    margin: 40px auto;
+    background-color:#595858; 
+    color:white; 
+    border:none; 
+    border-radius: 4px;
+    padding:6px 12px;
+}
+.sign-reg-button:hover{
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,0.2), 0 8px 8px 0 rgba(0,0,0,0.19);
+
+}
+
+#foot{
+    color:#595858;
+}
+

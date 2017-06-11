@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2017-4-24, 17:08:19
+    Author     : gaopingjie
+*/
+.w3-sidenav a {font-family: "Montserrat", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+a{
+    color:#595858;
+    text-decoration: none;
+}
+
+#small-logo{
+    padding-left: 20px;
+    font-weight:bold;
+}
+#small-logo a:hover{
+    font-size:24px;
+    color:black;
+}
+
+#my-nav a:hover { 
+    color: black;
+    text-decoration: none;
+    font-weight:bold;
+    background-color: white;
+    font-size: 20px;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+    font-weight:bold;
+    background-color: white;
+    font-size: 16px;
+}
+
+.input-bar {
+    display: table;
+    width: 100%;
+}
+.input-bar-item {
+    display: table-cell;
+}
+.input-bar-item > button {
+    font-size: 16px;
+    background-color: #e7e7e7;
+    border: none;
+    margin-left: 10px;
+    width:35px;
+    height:35px;
+}
+.width100 {
+  width: 100%;
+}
+
+#search:hover{
+    background-color: #e7e7e7;
+    border: none;
+}
+
+.quantity, .price{
+    font-size:18px;
+    margin:10px auto;
+}
+select{
+    width:50px;
+    text-align-last:center;
+}
+
+.add-to-cart button{
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    color:white;
+    background-color: #595858;
+    font-weight:bold;
+    padding:8px 12px;
+    margin-top:10px;
+    margin-bottom: 50px;
+}
+.add-to-cart button:hover{
+    box-shadow: 0 6px 6px 0 rgba(0,0,0,0.2), 0 8px 8px 0 rgba(0,0,0,0.19);
+}
+
+#description{
+    font-size:17px;
+}
+
+#foot{
+    color:#595858;
+}
+
